@@ -1,4 +1,4 @@
-﻿"""用户设置模型"""
+"""用户设置模型"""
 from __future__ import annotations
 
 from datetime import datetime

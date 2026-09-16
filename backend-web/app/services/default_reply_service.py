@@ -1,4 +1,4 @@
-﻿"""默认回复服务"""
+"""默认回复服务"""
 from __future__ import annotations
 
 from typing import Any, Dict, Optional

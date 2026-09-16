@@ -1,4 +1,4 @@
-﻿"""卡券模型"""
+"""卡券模型"""
 from __future__ import annotations
 
 from datetime import datetime

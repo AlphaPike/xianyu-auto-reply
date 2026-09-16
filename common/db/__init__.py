@@ -1,2 +1,2 @@
-﻿"""Database helpers."""
+"""Database helpers."""
 

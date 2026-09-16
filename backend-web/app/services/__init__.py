@@ -1,4 +1,4 @@
-﻿"""Domain services containing reusable business logic."""
+"""Domain services containing reusable business logic."""
 
 from app.services.account_service import AccountService
 from app.services.ai_reply_service import AIReplySettingsService

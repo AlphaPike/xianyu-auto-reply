@@ -1,4 +1,4 @@
-﻿"""默认回复模型"""
+"""默认回复模型"""
 from __future__ import annotations
 
 from datetime import datetime
